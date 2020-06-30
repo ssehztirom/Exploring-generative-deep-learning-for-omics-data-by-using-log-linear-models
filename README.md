@@ -11,4 +11,4 @@ and
 
 [PatternsByLogLin.jl](https://github.com/ssehztirom/PatternsByLogLin.jl).
 
-The Notebook has been tested with Julia v. 1.0.5 LTS running on Linux Mint 17.3 (Ubuntu 14.04). During evaluation, all required packages, including `LogLinearModels.jl` and `PatternsByLogLin` are automatically installed.
+The Notebook has been tested with Julia v. 1.0.5 LTS running on Linux Mint 17.3 (Ubuntu 14.04). During evaluation, all required packages, including `LogLinearModels.jl` and `PatternsByLogLin.jl` are automatically installed.
